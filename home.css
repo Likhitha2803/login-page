@@ -1,6 +1,7 @@
 *{
     padding: 0px;
     margin: 0px;
+    box-sizing: border-box;
 }
 @font-face{
     font-family: ProductSans;
@@ -11,8 +12,8 @@
     font-family: ProductSans;
     width: 200px;
     height: 200px;
-    background-color: greenyellow;
+    background-color: navyblue;
+    color: white;
     border: 30px solid gray;
     padding: 15px 0px 0px 15px;
-    box-sizing: border-box;
 }
